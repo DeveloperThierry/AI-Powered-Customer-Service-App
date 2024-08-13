@@ -104,6 +104,7 @@ export default function Home() {
         alignItems="center"
         bgcolor="white"
       >
+        
         <Stack direction="column" width="100%" height="100%"  p={2} spacing={3}>
           {/* Chat History */}
           <Stack direction="column" spacing={2} flexGrow={1} overflow="hidden" maxHeight="100%">
